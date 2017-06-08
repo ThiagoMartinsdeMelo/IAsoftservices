@@ -15,3 +15,10 @@ git clone https://github.com/ThiagoMartinsdeMelo/iasoftservices.git
 ```
 http://localhost/iasoftservices/painel
 ```
+
+#### Dados de acesso do painel:
+
+```
+Login: ricardo
+Senha: teste123
+```
