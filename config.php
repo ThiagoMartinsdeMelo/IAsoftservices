@@ -6,7 +6,7 @@ require 'environment.php';
 ** Constante BASE recebe o path da aplicação
 */
 
-define("BASE", "http://localhost:60/iasoftservices/");
+define("BASE", "http://localhost/iasoftservices/");
 
 global $config;
 $config = array();
