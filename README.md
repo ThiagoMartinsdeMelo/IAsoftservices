@@ -4,6 +4,13 @@
 
 #### Script de banco de dados [Dump](https://github.com/ThiagoMartinsdeMelo/iasoftservices/blob/master/iasoftservices.sql)
 
+#### Requisitos da aplicação
+
+```
+ php 5.6
+ mariadb 10.1
+```
+
 <p>Para instalar clone o projeto no diretório <strong>htdocs</strong> ou <strong>www</strong>:</p>
 
 ```
